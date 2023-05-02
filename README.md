@@ -36,29 +36,29 @@
 
 **Host**:
 ```
-bbxmjoirzhsluxd30dpi-mysql.services.clever-cloud.com <br>
+bbxmjoirzhsluxd30dpi-mysql.services.clever-cloud.com
 ```
 **Data Base**:
 ```
-bbxmjoirzhsluxd30dpi <br>
+bbxmjoirzhsluxd30dpi
 ```
 **User**:
 ```
-uvbcbackgnxzcdke <br>
+uvbcbackgnxzcdke
 ```
 **Password**:
 ```
-ygjWzMX06wph8h5x6NR0 <br>
+ygjWzMX06wph8h5x6NR0
 ```
 **Port**:
 ```
-3306 <br>
+3306
 ```
 **Conection URL**:
 ```
-mysql://uvbcbackgnxzcdke:ygjWzMX06wph8h5x6NR0@bbxmjoirzhsluxd30dpi-mysql.services.clever-cloud.com:3306/bbxmjoirzhsluxd30dpi <br>
+mysql://uvbcbackgnxzcdke:ygjWzMX06wph8h5x6NR0@bbxmjoirzhsluxd30dpi-mysql.services.clever-cloud.com:3306/bbxmjoirzhsluxd30dpi
 ```
 **MySQL CLI**:
 ```
-mysql -h bbxmjoirzhsluxd30dpi-mysql.services.clever-cloud.com -P 3306 -u uvbcbackgnxzcdke -p bbxmjoirzhsluxd30dpi<br>
+mysql -h bbxmjoirzhsluxd30dpi-mysql.services.clever-cloud.com -P 3306 -u uvbcbackgnxzcdke -p bbxmjoirzhsluxd30dp
 ```
