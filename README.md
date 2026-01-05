@@ -35,7 +35,7 @@ El proyecto se centra en la gestión de datos y comunicación asíncrona:
 ## 📅 Información del Proyecto
 * **Autor:** Cristopher (MyAstron).
 * **Propósito:** Portafolio Académico / Prácticas de IGER.
-* **Última Actualización:** 2022 (Cierre de ciclo escolar).
+* **Última Actualización:** 2023 (Cierre de ciclo escolar).
 
 ---
 *Desarrollado con el fin de comprender la arquitectura cliente-servidor.*
